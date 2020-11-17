@@ -1,5 +1,5 @@
 # Welcom to Math Utility repository
-
+![Image of Cat](https://octodex.github.com/images/yaktocat.png)
 ### This repo contains the Java source code to simulate the method of Math class found in JDK
 
 ## You will find in this repo:
